@@ -72,3 +72,6 @@ p {
   font-weight: 700;
   margin: -7px -2px;
 }
+.right {
+  justify-self: flex-end;
+}
